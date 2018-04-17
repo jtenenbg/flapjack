@@ -2,6 +2,9 @@
 
 public class AClass {
 
+    public void method1 {
+    }
+
     public void someMethod {
     }
 
