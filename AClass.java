@@ -8,4 +8,7 @@ public class AClass {
     public void anotherMethod {
     }
 
+    public void method2 {
+    }
+
 }
