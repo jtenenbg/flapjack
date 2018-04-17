@@ -5,7 +5,7 @@ public class AClass {
     public void method1 {
     }
 
-    public void theNewMethod {
+    public void theOldMethod {
     }
 
     public void anotherMethod {
