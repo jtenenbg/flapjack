@@ -5,4 +5,7 @@ public class AClass {
     public void someMethod {
     }
 
+    public void anotherMethod {
+    }
+
 }
